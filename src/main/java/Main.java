@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args)  {
-/*   //Початок блоку команд для перевірки методу public void saveBulk(List<Contact> list){}
+   //Початок блоку команд для перевірки методу public void saveBulk(List<Contact> list){}
         List<Contact> list=new ArrayList<>(3);
 
         Contact contact1=new Contact ("Ivan","Petrov","322");
@@ -19,7 +19,7 @@ public class Main {
             System.out.println(list.get(i));
         }
         new ContactRepositoryImpl().saveBulk(list);
-*/    // Кінець блоку команд для перевірки методу public void saveBulk(List<Contact> list){}
+    // Кінець блоку команд для перевірки методу public void saveBulk(List<Contact> list){}
 
 //******************************************************************************************************
 
@@ -32,7 +32,7 @@ public class Main {
 
 /*    // Початок блоку команд для перевірки методу public void delete(int id) {}
 
-         new ContactRepositoryImpl().delete(119);
+         new ContactRepositoryImpl().delete(125);
 
 */    // Кінець блоку команд для перевірки методу public void delete(int id) {}
 
