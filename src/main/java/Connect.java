@@ -3,7 +3,7 @@ import java.sql.SQLException;
 import java.util.function.Consumer;
 
 public  class Connect {
-    private static final String URL = "jdbc:mysql://localhost:3306/test2";
+    private static final String URL = "jdbc:mysql://192.168.0.103:3306/test2";
     private static final String USER = "dev";
     private static final String PASSWORD = "poridg1803!!!";
 
