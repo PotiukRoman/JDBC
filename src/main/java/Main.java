@@ -6,7 +6,7 @@ public class Main {
    //Початок блоку команд для перевірки методу public void saveBulk(List<Contact> list){}
         List<Contact> list=new ArrayList<>(3);
 
-        Contact contact1=new Contact ("Ivan","Petrov","322");
+        Contact contact1=new Contact ("Stepan","Petrov","322");
         Contact contact2=new Contact("Vasil","Ivanov","644");
         Contact contact3=new Contact("Bogdan","Pidkova","862");
 
